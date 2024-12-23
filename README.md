@@ -1,10 +1,8 @@
 Meu nome é Fabio Guimarães.
 
-Atualmente cursando análise e desenvolvimento de sistemas, estou apaixonado pelo o mundo da tecnologia e desenvolvimento. Tenho uma forte dedicação em aprender e aprimorar minhas habilidades nas área de desenvolvimento.
+Atualmente cursando Análise e Desenvolvimento de Sistemas na UNISUAM, sou apaixonado pelo mundo da tecnologia e desenvolvimento de software. Minha jornada acadêmica tem sido marcada por dedicação, curiosidade e vontade constante de aprender e evoluir.
 
-Possuou foco em HTML, CSS, Javascript, PHP e banco de dados.
-
-Amo oque eu faço e estou sempre buscando novas oportunidades para crescer e contribuir em projetos. Estou animado para me conectar com profissionais da área e colaborar em iniciativas inovadoras.
+Participei ativamente de projetos acadêmicos, onde tive a oportunidade de aplicar conhecimentos teóricos em práticas reais, desenvolvendo soluções criativas e funcionais. Além disso, participei de apresentações e trabalhos colaborativos, aprimorando minhas habilidades de comunicação, trabalho em equipe e resolução de problemas.
 
 Email - fabio8henrique@gmail.com
 
